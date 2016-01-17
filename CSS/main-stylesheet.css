@@ -1,7 +1,16 @@
+/*	Jose Escobar Mejia - Website main-stylesheet
+	Author: Jose Escobar Mejia
+	Date: 	1/18/2016
+	
+*/
 body {
 	background-color: black;
 	text-align: center; 
-	color: orange; 
+	color: white; 
+}
+
+section {
+	color: orange;
 }
 
 footer {
