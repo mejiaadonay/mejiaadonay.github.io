@@ -4,6 +4,24 @@
 	Date: 	1/18/2016
 	
 */
+#headerJose {
+	font-family:  'PT Serif', serif;
+	font-size: 2.5em;
+	color: #B72667;
+	text-shadow: 2px 2px 3px rgb(150, 150, 150, 0.75);
+}
+#headerEscobar {
+	font-family:  'PT Serif', serif;
+	font-size: 2.5em;
+	color: #8A8C8F;
+	text-shadow: 2px 2px 3px rgb(150, 150, 150, 0.75);
+}
+#headerMejia {
+	font-family:  'PT Serif', serif;
+	font-size: 2.5em;
+	color: #00A0E3;
+	text-shadow: 2px 2px 3px rgb(150, 150, 150, 0.75);
+}
 body {
 	font-family:  'PT Serif', serif;
 	background-color: #17222C;
