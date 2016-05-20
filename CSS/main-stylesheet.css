@@ -1,9 +1,11 @@
+@import url(https://fonts.googleapis.com/css?family=PT+Serif:400italic);
 /*	Jose Escobar Mejia - Website main-stylesheet
 	Author: Jose Escobar Mejia
 	Date: 	1/18/2016
 	
 */
 body {
+	font-family:  'PT Serif', serif;
 	background-color: #17222C;
 	text-align: center; 
 	color: white; 
