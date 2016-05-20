@@ -40,5 +40,6 @@ section {
 }
 
 footer {
+	position: relative;
 	color: #44FF37;
 }
