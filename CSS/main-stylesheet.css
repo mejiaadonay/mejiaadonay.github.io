@@ -10,7 +10,13 @@ body {
 	text-align: center; 
 	color: white; 
 }
-
+h1{
+	font-family:  'PT Serif', serif;
+	font-size: 2.5em;
+	text-align: center;
+	color: #fff;
+	text-shadow: 2px 2px 3px rgb(150, 150, 150, 0.75);
+}
 section {
 	color: orange;
 }
