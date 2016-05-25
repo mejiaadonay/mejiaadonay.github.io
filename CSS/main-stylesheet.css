@@ -41,8 +41,8 @@ section {
 }
 #footer {
 	
-	background-color:#00A0E3;
-	color: #fff;
+	background-color: none;
+	color:  #8A8C8F;
 	position: absolute;
 	right: 0;
 	bottom: 0;
