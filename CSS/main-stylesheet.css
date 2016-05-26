@@ -23,7 +23,7 @@
 	text-shadow: 2px 2px 3px rgb(150, 150, 150, 0.75);
 }
 body {
-	background-image:url("https://source.unsplash.com/category/technology/1600x900");
+	background-image: url("https://source.unsplash.com/user/seth schwiet/WB3ujiKLJwQ/1600x900");
 	font-family:  'PT Serif', serif;
 	/* background-color: #17222C; */
 	text-align: center; 
@@ -42,7 +42,7 @@ section {
 #footer {
 	
 	background-color: clear;
-	color:  #8A8C8F;
+	color:  #4CAF50;
 	position: absolute;
 	right: 0;
 	bottom: 0;
